@@ -1,5 +1,4 @@
-# Hassan Ahmed | AI & Python Engineering Expert
-
+# Hassan Ahmed | App Developer | Software Developer | AI Expert
 High-performance Software Developer specializing in Predictive Modeling, Data Visualization, and System Utilities. I build tools that challenge market conventions and optimize digital workflows. My core focus is on solving complex real-world problems through custom software and application development.
 
 ---
